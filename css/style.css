@@ -329,7 +329,7 @@ body {
 }
 
 .price__top > p {
-  width: 650px;
+  /* width: 650px; */
   margin: 0 auto 15px;
 }
 
